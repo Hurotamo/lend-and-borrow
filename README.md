@@ -1,5 +1,5 @@
 # lend-and-borrow
-sample smart contract for lend and borrow solidirty 
+sample smart contract for lend and borrow solidity 
 
 
 This Solidity contract implements a **Lending and Borrowing System** with collateral requirements and liquidation rules. Here's a breakdown of the contract's functionality and structure:
